@@ -1,2 +1,2 @@
 # Calculator
-#This is a code that purform a work of calculator.
+This is a code that perform a work of calculator.
